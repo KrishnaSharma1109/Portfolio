@@ -6,14 +6,9 @@ Welcome to my personal developer portfolio! This website is built using **Next.j
 
 - 🌐 Built with Next.js & React
 - 🎨 Styled using Tailwind CSS
-- 💼 Showcases projects like:
-  - Notes Vault (Full stack app)
-  - CPPHelper (NPM tool)
-  - Weather App (API-based)
-  - Fun Quiz App (Frontend)
-- 📜 Certifications from GeeksforGeeks, Udemy, and more
+- 💼 Showcases projects 
+- 📜 Certifications from GeeksforGeeks, Hackerrank and more
 - 📄 Resume Download available
-- 🌗 Light/Dark Mode toggle
 - 📱 Fully responsive design
 
 ## 🛠 Tech Stack
