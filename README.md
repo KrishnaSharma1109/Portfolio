@@ -19,17 +19,17 @@ Welcome to my personal developer portfolio! This website is built using **Next.j
 
 ## 🔗 Live Website
 
-👉 [Visit Live Portfolio](https://your-vercel-url.vercel.app)
+👉 [Visit Live Portfolio](https://portfolio-krishna-sharma-11.vercel.app/)
 
 ## 📬 Contact Me
 
 If you want to collaborate or just say hello, feel free to reach out:
 
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: krishnawork118@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/krishna-sharma-649008219)
 - 💻 [GitHub](https://github.com/KrishnaSharma1109)
 
 ---
 
-> Built with ❤️ by Krishna Sharma
+> Built by Krishna Sharma
 >>>>>>> 7049ad3e81f96ca3f6678232fba5e42788942deb
