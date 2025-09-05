@@ -32,4 +32,3 @@ If you want to collaborate or just say hello, feel free to reach out:
 ---
 
 > Built by Krishna Sharma
->>>>>>> 7049ad3e81f96ca3f6678232fba5e42788942deb
